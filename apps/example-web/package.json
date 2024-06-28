@@ -9,19 +9,24 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
+		"@tanstack/react-query": "^5.45.1",
+		"jotai": "^2.8.3",
+		"next": "14.0.4",
 		"react": "^18",
 		"react-dom": "^18",
-		"next": "14.0.4"
+		"socket.io-client": "^4.7.5",
+		"ts-pattern": "^5.2.0",
+		"hvsc-g2-backend": "workspace:*"
 	},
 	"devDependencies": {
-		"typescript": "^5",
 		"@types/node": "^20",
 		"@types/react": "^18",
 		"@types/react-dom": "^18",
 		"autoprefixer": "^10.0.1",
+		"eslint": "^8",
+		"eslint-config-next": "14.0.4",
 		"postcss": "^8",
 		"tailwindcss": "^3.3.0",
-		"eslint": "^8",
-		"eslint-config-next": "14.0.4"
+		"typescript": "^5"
 	}
 }

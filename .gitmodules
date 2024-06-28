@@ -4,3 +4,6 @@ url = https://github.com/kaylendog/eslint-config-infernal.git
 [submodule "packages/prettier-config-infernal"]
 path = packages/prettier-config-infernal
 url = https://github.com/kaylendog/prettier-config-infernal.git
+[submodule "packages/helio-backend"]
+	path = packages/helio-backend
+	url = https://github.com/heliogame/helio-backend
